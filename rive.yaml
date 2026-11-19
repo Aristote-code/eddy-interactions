@@ -1,0 +1,10 @@
+name: eddy-interactions
+logs:
+  file: build/rive.log
+  problems: build/problems.log
+push:
+  # READ-ONLY STUDY COPY. 2601980 is "Eddy Interactions" in the Rive account —
+  # the reference for how the reaction interaction is wired. Nothing here is
+  # ever pushed back; `rive pull` only downloads.
+  projectId: 1650304
+  fileId: 2601980
